@@ -1,0 +1,21 @@
+{
+  "expenses": [
+    {
+      "id": "3036",
+      "title": "kithen",
+      "amount": 500,
+      "date": "2000-11-22",
+      "type": "expense",
+      "category": "sasasa"
+    },
+    {
+      "id": "3036",
+      "title": "kithen",
+      "amount": 500,
+      "date": "2000-11-22",
+      "type": "expense",
+      "category": "sasasa"
+    }
+  ],
+  "users": []
+}
